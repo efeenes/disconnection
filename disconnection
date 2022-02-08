@@ -39,3 +39,4 @@ for i1 in range(len(data)):
 print("Tüm elektrot kopukluğu olan evreler",cc)
 print("Toplam Sayısı",len(cc))
             
+# PAPER : 
