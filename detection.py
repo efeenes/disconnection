@@ -6,7 +6,7 @@ def g_w(n, Mt, olap):
     ieds = []
 
     ist = 0
-    while 1:
+    while True:
         ied = ist + Mt
         if ied > n:
             break
