@@ -16,7 +16,7 @@ def g_w(n, Mt, olap):
     return ists, ieds
 
 
-data=normalized = preprocessing.normalize(data)
+data= preprocessing.normalize(data)
 i1=0
 i2=0
 cc=[]
