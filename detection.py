@@ -28,9 +28,9 @@ for i1 in range(len(data)):
     X = np.array([x[ist:ied] for ist, ied in zip(ists, ieds)]) 
     ss=len(X)
     for i2 in range(ss):
-        goz=max(X[i2])
+        eye=max(X[i2])
         A=X[i2]
-        A = [goz for n in range(len(X[i2]))]
+        A = [eye for n in range(len(X[i2]))]
         if distance.euclidean(A,X[i2])<0.001:
             cc.append(i1)
             plt.plot(d1[i1])
