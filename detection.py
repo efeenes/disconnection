@@ -36,7 +36,7 @@ for i1 in range(len(data)):
             plt.plot(d1[i1])
             plt.show() 
             break
-print("Tüm elektrot kopukluğu olan evreler",cc)
-print("Toplam Sayısı",len(cc))
+print("epochs with disconnection or non-contacts",cc)
+print("Total number",len(cc))
             
-# PAPER : 
+# PAPER : "EYE: A New Method for Detection of Electrode Disconnection in Sleep Signals"
