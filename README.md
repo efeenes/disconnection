@@ -1,6 +1,6 @@
-# disconnection
+# disconnection or non-contact problem 
 
-# A New Method for Detection of Electrode Disconnection in Sleep Signals: EYE
+# EYE: A New Method for Detection of Electrode Disconnection in Sleep Signals
 
 # Paper: The paper will be added.
 
