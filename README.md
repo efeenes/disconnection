@@ -1,4 +1,4 @@
-# disconnection or non-contact problem 
+# Disconnection or non-contact problem 
 
 # EYE: A New Method for Detection of Electrode Disconnection in Sleep Signals
 
