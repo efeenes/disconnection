@@ -2,6 +2,11 @@
 
 # EYE: A New Method for Detection of Electrode Disconnection in Sleep Signals
 
-# Paper: The paper will be added.
+# Paper: https://doi.org/10.56038/ejrnd.v2i2.22
 
 # Authors: Enes EFE and Seral OZSEN
+
+
+Efe, E., & Özşen, S. (2022). EYE: A New Method for Detection of Electrode Disconnection in Sleep Signals. The European Journal of Research and Development, 2(2), 13–22.
+
+Please cite the publication when referencing the material.
